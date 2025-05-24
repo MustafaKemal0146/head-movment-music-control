@@ -2,6 +2,9 @@
 
 Bilgisayar görüşü ve yapay zeka kullanarak kafa hareketleriyle sistem genelinde medya kontrolü sağlayan bir Python uygulaması.
 
+🎥 **Demo Videosu:**
+[![Watch the video](https://img.youtube.com/vi/gYeDIzXR20M/0.jpg)](https://youtu.be/gYeDIzXR20M)
+
 ## Özellikler
 
 - Gerçek zamanlı yüz algılama ve yüz işaretleri takibi
